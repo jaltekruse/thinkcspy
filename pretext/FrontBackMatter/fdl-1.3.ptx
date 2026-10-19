@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<section xml:id="front-back-matter_gnu-free-documentation-license">
+<appendix xml:id="front-back-matter_gnu-free-documentation-license">
   <title>GNU Free Documentation License</title>
   <p>Version 1.3, 3 November 2008</p>
   <!--This data file has been placed in the public domain.-->
@@ -11,7 +11,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 Inc.</url></p>
   <p>Everyone is permitted to copy and distribute verbatim copies of
             this license document, but changing it is not allowed.</p>
-  <subsection xml:id="front-back-matter_preamble">
+  <section xml:id="front-back-matter_preamble">
     <title>0. PREAMBLE</title>
     <p>The purpose of this License is to make a manual, textbook, or other functional
                 and useful document <q>free</q> in the sense of freedom: to assure everyone the
@@ -29,8 +29,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 regardless of subject matter or whether it is published as a printed book. We
                 recommend this License principally for works whose purpose is instruction or
                 reference.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_applicability-and-definitions">
+  </section>
+  <section xml:id="front-back-matter_applicability-and-definitions">
     <title>1. APPLICABILITY AND DEFINITIONS</title>
     <p>This License applies to any manual or other work, in any medium, that contains
                 a notice placed by the copyright holder saying it can be distributed under the
@@ -101,8 +101,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 considered to be included by reference in this License, but only as regards
                 disclaiming warranties: any other implication that these Warranty Disclaimers
                 may have is void and has no effect on the meaning of this License.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_verbatim-copying">
+  </section>
+  <section xml:id="front-back-matter_verbatim-copying">
     <title>2. VERBATIM COPYING</title>
     <p>You may copy and distribute the Document in any medium, either commercially or
                 noncommercially, provided that this License, the copyright notices, and the
@@ -114,8 +114,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 number of copies you must also follow the conditions in section 3.</p>
     <p>You may also lend copies, under the same conditions stated above, and you may
                 publicly display copies.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_copying-in-quantity">
+  </section>
+  <section xml:id="front-back-matter_copying-in-quantity">
     <title>3. COPYING IN QUANTITY</title>
     <p>If you publish printed copies (or copies in media that commonly have printed
                 covers) of the Document, numbering more than 100, and the Document's license
@@ -145,8 +145,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
     <p>It is requested, but not required, that you contact the authors of the Document
                 well before redistributing any large number of copies, to give them a chance to
                 provide you with an updated version of the Document.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_modifications">
+  </section>
+  <section xml:id="front-back-matter_modifications">
     <title>4. MODIFICATIONS</title>
     <p>You may copy and distribute a Modified Version of the Document under the
                 conditions of sections 2 and 3 above, provided that you release the Modified
@@ -253,8 +253,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
     <p>The author(s) and publisher(s) of the Document do not by this License give
                 permission to use their names for publicity for or to assert or imply
                 endorsement of any Modified Version.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_combining-documents">
+  </section>
+  <section xml:id="front-back-matter_combining-documents">
     <title>5. COMBINING DOCUMENTS</title>
     <p>You may combine the Document with other documents released under this License,
                 under the terms defined in section 4 above for modified versions, provided that
@@ -273,8 +273,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 various original documents, forming one section Entitled <q>History</q>; likewise
                 combine any sections Entitled <q>Acknowledgements</q>, and any sections Entitled
                 <q>Dedications</q>. You must delete all sections Entitled <q>Endorsements</q>.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_collections-of-documents">
+  </section>
+  <section xml:id="front-back-matter_collections-of-documents">
     <title>6. COLLECTIONS OF DOCUMENTS</title>
     <p>You may make a collection consisting of the Document and other documents
                 released under this License, and replace the individual copies of this License
@@ -285,8 +285,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 individually under this License, provided you insert a copy of this License
                 into the extracted document, and follow this License in all other respects
                 regarding verbatim copying of that document.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_aggregation-with-independent-works">
+  </section>
+  <section xml:id="front-back-matter_aggregation-with-independent-works">
     <title>7. AGGREGATION WITH INDEPENDENT WORKS</title>
     <p>A compilation of the Document or its derivatives with other separate and
                 independent documents or works, in or on a volume of a storage or distribution
@@ -301,8 +301,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 within the aggregate, or the electronic equivalent of covers if the Document is
                 in electronic form. Otherwise they must appear on printed covers that bracket
                 the whole aggregate.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_translation">
+  </section>
+  <section xml:id="front-back-matter_translation">
     <title>8. TRANSLATION</title>
     <p>Translation is considered a kind of modification, so you may distribute
                 translations of the Document under the terms of section 4. Replacing Invariant
@@ -318,8 +318,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
     <p>If a section in the Document is Entitled <q>Acknowledgements</q>, <q>Dedications</q>, or
                 <q>History</q>, the requirement (section 4) to Preserve its Title (section 1) will
                 typically require changing the actual title.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_termination">
+  </section>
+  <section xml:id="front-back-matter_termination">
     <title>9. TERMINATION</title>
     <p>You may not copy, modify, sublicense, or distribute the Document except as
                 expressly provided under this License. Any attempt otherwise to copy, modify,
@@ -340,8 +340,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 your rights have been terminated and not permanently reinstated, receipt of a
                 copy of some or all of the same material does not give you any rights to use
                 it.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_future-revisions-of-this-license">
+  </section>
+  <section xml:id="front-back-matter_future-revisions-of-this-license">
     <title>10. FUTURE REVISIONS OF THIS LICENSE</title>
     <p>The Free Software Foundation may publish new, revised versions of the GNU Free
                 Documentation License from time to time. Such new versions will be similar in
@@ -357,8 +357,8 @@ Processed by unicode2rstsubs.py, part of Docutils:
                 Document specifies that a proxy can decide which future versions of this
                 License can be used, that proxy's public statement of acceptance of a version
                 permanently authorizes you to choose that version for the Document.</p>
-  </subsection>
-  <subsection xml:id="front-back-matter_relicensing">
+  </section>
+  <section xml:id="front-back-matter_relicensing">
     <title>11. RELICENSING</title>
     <p><q>Massive Multiauthor Collaboration Site</q> (or <q>MMC Site</q>) means any World Wide
                 Web server that publishes copyrightable works and also provides prominent
@@ -380,5 +380,5 @@ Processed by unicode2rstsubs.py, part of Docutils:
     <p>The operator of an MMC Site may republish an MMC contained in the site under
                 CC-BY-SA on the same site at any time before August 1, 2009, provided the MMC
                 is eligible for relicensing.</p>
-  </subsection>
-</section>
+  </section>
+</appendix>

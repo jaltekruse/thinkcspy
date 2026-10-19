@@ -35,6 +35,7 @@
         <backmatter>
             <xi:include href="./Appendices/PrecedenceTable.ptx"/>
             <!-- <xi:include href="./Appendices/errorsAndDebug.ptx"/> -->
+            <xi:include href="./FrontBackMatter/fdl-1.3.ptx"/>
             <index>
                 <index-list/>
             </index>
