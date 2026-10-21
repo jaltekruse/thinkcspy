@@ -38,7 +38,7 @@ print(x)
                 figure out how to make the solution more general.</p>
     <p>Here is a possible sequence of steps that we will need to accomplish:</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>Import the modules we need</p>
         </li>

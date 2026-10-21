@@ -19,7 +19,7 @@ seq3np1(3)
         </code>
   </program>
   <p>
-    <ol label="1">
+    <ol marker="1">
       <li>
         <p>Count the number of iterations it takes to stop.</p>
         <blockquote>

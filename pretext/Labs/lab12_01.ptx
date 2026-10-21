@@ -50,7 +50,7 @@ print(countAll("banana"))
     </program>
     <p>Here is a start to the development of the function.</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>Define the function to require one parameter, the string.</p>
         </li>

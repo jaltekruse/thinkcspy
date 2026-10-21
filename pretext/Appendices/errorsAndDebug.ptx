@@ -4,7 +4,7 @@
   <p>Different kinds of errors can occur in a program, and it is useful to
             distinguish among them in order to track them down more quickly:</p>
   <p>
-    <ol label="1">
+    <ol marker="1">
       <li>
         <p>Syntax errors are produced by Python when it is translating the source code
                     into byte code. They usually indicate that there is something wrong with the
@@ -47,7 +47,7 @@ token</c>, neither of which is very informative.</p>
                 might be.</p>
     <p>Here are some ways to avoid the most common syntax errors:</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>Make sure you are not using a Python keyword for a variable name.</p>
         </li>
@@ -115,7 +115,7 @@ token</c>, neither of which is very informative.</p>
     <p>If a program stops and seems to be doing nothing, we say it is hanging. Often
                 that means that it is caught in an infinite loop or an infinite recursion.</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>If there is a particular loop that you suspect is the problem, add a
                         <c>print</c> statement immediately before the loop that says entering the loop
@@ -233,7 +233,7 @@ while x &gt; 0 and y &lt; 0:
         <title>TypeError</title>
         <p>There are several possible causes:</p>
         <p>
-          <ol label="1">
+          <ol marker="1">
             <li>
               <p>You are trying to use a value improperly. Example: indexing a
                                     string, list, or tuple with something other than an integer.</p>
@@ -325,7 +325,7 @@ while x &gt; 0 and y &lt; 0:
     <title>My program doesn't work.</title>
     <p>You should ask yourself these questions:</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>Is there something the program was supposed to do but which doesn't
                         seem to be happening? Find the section of the code that performs that
@@ -426,7 +426,7 @@ return count
     <p>First, try getting away from the computer for a few minutes. Computers emit
                 waves that affect the brain, causing these effects:</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>Frustration and/or rage.</p>
         </li>
@@ -462,7 +462,7 @@ return count
     <p>When you bring someone in to help, be sure to give them the information they
                 need:</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>If there is an error message, what is it and what part of the program does
                         it indicate?</p>

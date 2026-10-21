@@ -79,7 +79,7 @@
     <p>Now we can put the two previous programs together to complete our plot. Here is our sequence
       of steps.</p>
     <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>Create and set up the turtle and the screen.</p>
         </li>

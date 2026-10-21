@@ -6,7 +6,7 @@
   <p>Combine these two ideas together to create a function that will take a string and create a histogram of the number of
             times each letter occurs.  Make sure it is in alphabetical order from left to right.</p>
   <p>
-    <ol label="1">
+    <ol marker="1">
       <li>
         <p>Count the number of times each letter occurs.  Keep the count in a dictionary.</p>
       </li>
