@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<section xml:id="front-back-matter_copyright-notice">
+<preface xml:id="front-back-matter_copyright-notice">
   <title>Copyright Notice</title>
   <p>Copyright (C)  Brad Miller, David Ranum, Jeffrey Elkner, Peter Wentworth, Allen B. Downey, Chris
             Meyers, and Dario Mitchell.  Permission is granted to copy, distribute
@@ -8,4 +8,4 @@
             Foundation; with Invariant Sections being Forward, Prefaces, and
             Contributor List, no Front-Cover Texts, and no Back-Cover Texts.  A copy of
             the license is included in the section entitled <q>GNU Free Documentation License</q>.</p>
-</section>
+</preface>

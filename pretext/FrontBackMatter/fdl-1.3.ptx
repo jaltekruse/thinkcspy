@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<appendix xml:id="front-back-matter_gnu-free-documentation-license">
+<preface xml:id="front-back-matter_gnu-free-documentation-license">
   <title>GNU Free Documentation License</title>
   <!-- The license is the official plain-text version, pasted verbatim.     -->
   <!-- To update it, replace everything between CDATA[ and ]]> with the     -->
@@ -458,4 +458,4 @@ recommend releasing these examples in parallel under your choice of
 free software license, such as the GNU General Public License,
 to permit their use in free software.
 ]]></pre>
-</appendix>
+</preface>
