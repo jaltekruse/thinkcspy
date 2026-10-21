@@ -14,8 +14,16 @@ x = x + 1
             look a bit strange, remember that executing assignment is a two-step process.  First, evaluate the
             right-hand side expression.  Second, let the variable name on the left-hand side refer to this new
             resulting object.  The fact that <c>x</c> appears on both sides does not matter.  The semantics of the assignment
-            statement makes sure that there is no confusion as to the result.  The visualizer makes this very clear.</p>
-  <exercise runestone="se_updatevar1"/>
+            statement makes sure that there is no confusion as to the result.  The step-by-step trace below makes this very clear.</p>
+  <program language="python">
+    <code>
+x = 6
+x = x + 1
+
+x = 6 + 1  # x evaluates to 6
+x = 7      # 6 + 1 evaluates to 7, and the name x now refers to 7
+    </code>
+  </program>
   <program xml:id="ch07_update1" interactive="activecode" language="python">
     <code>
 x = 6        # initialize x
