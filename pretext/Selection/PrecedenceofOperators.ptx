@@ -147,15 +147,6 @@
       </choice>
     </choices>
   </exercise>
-  <p>Here is a step-by-step evaluation of the above expression:</p>
-  <program language="python">
-    <code>
-5 * 3 > 10 and 4 + 6 == 11
-15 > 10 and 4 + 6 == 11     # 5 * 3 evaluates to 15
-True and 4 + 6 == 11        # 15 > 10 evaluates to True
-True and 10 == 11           # 4 + 6 evaluates to 10
-True and False              # 10 == 11 evaluates to False
-False                       # True and False evaluates to False
-    </code>
-  </program>
+  <p>Here is an animation for the above expression:</p>
+  <exercise runestone="se_tq631"/>
 </section>

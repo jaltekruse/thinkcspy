@@ -147,22 +147,7 @@ print((2 ** 3) ** 2)   # use parentheses to force the order you want!
       </choice>
     </choices>
   </exercise>
-  <p>Here are step-by-step evaluations of the above expressions:</p>
-  <program language="python">
-    <code>
-16 - 2 * 5 // 3 + 1
-16 - 10 // 3 + 1     # 2 * 5 evaluates to 10
-16 - 3 + 1           # 10 // 3 evaluates to 3
-13 + 1               # 16 - 3 evaluates to 13
-14                   # 13 + 1 evaluates to 14
-    </code>
-  </program>
-  <program language="python">
-    <code>
-2 ** 2 ** 3 * 3
-2 ** 8 * 3       # 2 ** 3 evaluates to 8 (** groups right to left)
-256 * 3          # 2 ** 8 evaluates to 256
-768              # 256 * 3 evaluates to 768
-    </code>
-  </program>
+  <p>Here are animations for the above expressions:</p>
+  <exercise runestone="se_tq281"/>
+  <exercise runestone="se_tq282"/>
 </section>
